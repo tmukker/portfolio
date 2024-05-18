@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8d0dd381.css",
+    "main.js": "/portfolio/static/js/main.3518682e.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Tushar_Mukker_Resume.pdf": "/portfolio/static/media/Tushar_Mukker_Resume.5e9f03e4e67d22376f95.pdf",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/tourEasy.jpg": "/portfolio/static/media/tourEasy.bcab2f13a3f04a2a3e65.jpg",
+    "static/media/spotifyPipeline.jpg": "/portfolio/static/media/spotifyPipeline.770d713ba762a418bbad.jpg",
+    "static/media/autoGaurd.jpg": "/portfolio/static/media/autoGaurd.85d7b20fc92096230791.jpg",
+    "static/media/homeAutomation.jpg": "/portfolio/static/media/homeAutomation.ee5703df8594f67e5cc1.jpg",
+    "static/media/stockMarketArchitecture.jpg": "/portfolio/static/media/stockMarketArchitecture.9144905be2b8df1a5476.jpg",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/mongoRedis.jpg": "/portfolio/static/media/mongoRedis.f8fea4ff988f86962738.jpg",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio/index.html",
+    "main.8d0dd381.css.map": "/portfolio/static/css/main.8d0dd381.css.map",
+    "main.3518682e.js.map": "/portfolio/static/js/main.3518682e.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d0dd381.css",
+    "static/js/main.3518682e.js"
+  ]
+}
