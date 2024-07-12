@@ -10,8 +10,8 @@ const experiences = [
     description: (
         <p>
           <span style={{ fontWeight: "bold", color: "#c770f0" }}>SKILLS:</span>{" "}
-          Snowflake, Matillion ETL, Informatica, Alteryx, CDC, Data Pipelines, Extract, Transform, Load
-          (ETL), SQL, ELT, Stored Procedures, Oracle, Tableau
+          Python, SQL, Snowflake, Matillion ETL, Informatica Power Center, Alteryx, CDC, Data Pipelines, Extract, Transform, Load
+          (ETL), ELT, Stored Procedures, Azure, Fivetran, Databricks, Oracle, Tableau
         </p>
       ),
   },
